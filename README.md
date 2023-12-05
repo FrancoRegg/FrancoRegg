@@ -1,10 +1,16 @@
-<h1 align="center">Hola👋, mi nombre es Franco Reggiardo</h1>
+<h1 align="center">Hola, soy Franco Reggiardo 👋</h1>
 <h3 align="center">Soy un Desarrollador Full Stack </h3>
 
 <p>Mi objetivo es adentrarme y crecer en el mundo tecnológico. Estoy genuinamente interesado en explorar y aprender en diversas áreas. Como profesional en desarrollo, mi compromiso es dedicar todos mis esfuerzos para lograr cosas espectaculares y contribuir significativamente al sector.</p>
 
-- 🔭 Actualmente estoy trabajando en [Pa´lante](https://github.com/4GeeksAcademy/Palante-spain-pt-47) un proyecto de equipo orientado al aporte social.
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
+- 🔭 Actualmente estoy trabajando en [Pa´lante](https://github.com/4GeeksAcademy/Palante-spain-pt-47) un proyecto orientado al aporte social.
+  
 - 👨‍💻 Mis proyectos se pueden ver [Aqui](https://github.com/FrancoRegg?tab=repositories)
+  
 - 📫 Puedes escribirme para consultas **franco.dev97@gmail.com**
 <br/>
 <h3 align="left">Contacta conmigo:</h3>
