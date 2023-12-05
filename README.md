@@ -4,7 +4,7 @@
 <p>Mi objetivo es adentrarme y crecer en el mundo tecnológico. Estoy genuinamente interesado en explorar y aprender en diversas áreas. Como profesional en desarrollo, mi compromiso es dedicar todos mis esfuerzos para lograr cosas espectaculares y contribuir significativamente al sector.</p>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="400" height="250" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 - 🔭 Actualmente estoy trabajando en [Pa´lante](https://github.com/4GeeksAcademy/Palante-spain-pt-47) un proyecto orientado al aporte social.
