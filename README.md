@@ -8,11 +8,11 @@
   <img align="right" top="400" height="250" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 Actualmente estoy trabajando en [Pa´lante](https://github.com/4GeeksAcademy/Palante-spain-pt-47) un proyecto orientado al aporte social.
+- 🔭 Actualmente estoy trabajando en [Pa´lante](https://github.com/4GeeksAcademy/Palante-spain-pt-47), un proyecto orientado al aporte social.
   
-- 👨‍💻 Mis proyectos se pueden ver [Aqui](https://github.com/FrancoRegg?tab=repositories)
+- 👨‍💻 Mis proyectos se pueden ver [Aqui](https://github.com/FrancoRegg?tab=repositories).
   
-- 📫 Puedes escribirme para consultas **franco.dev97@gmail.com**
+- 📫 Puedes escribirme para consultas **franco.dev97@gmail.com**.
 <br/>
 <h3 align="left">Contacta conmigo:</h3>
 <p align="left">
