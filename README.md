@@ -1,5 +1,7 @@
-<h1 align="center">Hola, soy Franco Reggiardo 👋</h1>
-<img src="https://github.com/FrancoRegg/FrancoRegg/assets/138858381/f2d4f76c-cd62-42cb-96ef-da0168919987" />
+<div align="center">
+<h1>Hola, soy Franco Reggiardo👋</h1>  
+</div>
+<img src="https://github.com/FrancoRegg/FrancoRegg/assets/138858381/c41cd9d1-d337-4d2c-a8d5-e058b48b21c5">
 <p>Mi objetivo es adentrarme y crecer en el mundo tecnológico. Estoy genuinamente interesado en explorar y aprender en diversas áreas. Como profesional en desarrollo, mi compromiso es dedicar todos mis esfuerzos para lograr cosas espectaculares y contribuir significativamente al sector.</p>
 
 <a target="_blank" align="center">
