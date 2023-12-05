@@ -1,9 +1,6 @@
 <h1 align="center">Hola👋, mi nombre es Franco Reggiardo</h1>
 <h3 align="center">Soy un desarrollador Full Stack apasionado por el mundo tecnológico</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=francoregg&label=Profile%20views&color=0e75b6&style=flat" alt="francoregg" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=francoregg" alt="francoregg" /></a> </p>
 
 - 🔭 I’m currently working on [Pa´lante Proyecto Web](https://github.com/4GeeksAcademy/Palante-spain-pt-47)
 
