@@ -1,7 +1,10 @@
 <div align="center">
-<h1>Hola, soy Franco Reggiardo👋</h1>  
+  
+<h1>Hola, soy Franco Reggiardo👋</h1>
+
 </div>
-### Desarrollador Backend enfocado en construir aplicaciones escalables y eficientes.
+
+**Desarrollador Backend** enfocado en construir aplicaciones escalables y eficientes.
 
 ## 🚀 Sobre mí
 
